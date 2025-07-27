@@ -1,17 +1,6 @@
-/*-----------------------------------*\
-  #index.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
 
 /*-----------------------------------*\
-  #CUSTOM PROPERTY
+    #index.css #CUSTOM PROPERTY
 \*-----------------------------------*/
 
 :root {
@@ -20,7 +9,9 @@
    * COLORS
    */
 
-  --gold-crayola: hsl(38, 61%, 73%);
+  /* --gold-crayola: hsl(38, 61%, 73%); */
+  /* --gold-crayola: hsl(2, 74%, 35%); */
+  --gold-crayola: hsl(17, 89%, 56%);
   --quick-silver: hsla(0, 0%, 65%, 1);
   --davys-grey: hsla(30, 3%, 34%, 1);
   --smoky-black-1: hsla(40, 12%, 5%, 1);
@@ -116,9 +107,6 @@
 }
 
 
-
-
-
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
@@ -178,6 +166,9 @@ html {
 body {
   background-color: var(--eerie-black-1);
   color: var(--white);
+
+   /* color: hsl(17, 88%, 55%) */
+;
   font-family: var(--fontFamily-dm_sans);
   font-size: var(--fontSize-body-4);
   font-weight: var(--weight-regular);
@@ -579,14 +570,11 @@ body.nav-active { overflow: hidden; }
 
 
 
-
 /*-----------------------------------*\
   #TOPBAR
 \*-----------------------------------*/
 
 .topbar { display: none; }
-
-
 
 
 
