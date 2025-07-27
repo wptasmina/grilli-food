@@ -20,6 +20,11 @@
 
 To run **Grilli** locally, run this command on your git bash:
 
+Windows:
+
+```bash
+git clone https://github.com/wptasmina/grilli.git
+```
 
 ### Contact
 
