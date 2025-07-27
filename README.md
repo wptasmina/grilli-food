@@ -4,22 +4,11 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
-
-</div>
+  <a href="https://wptasmina.github.io/grilli-food"><strong>➥ Live Demo</strong></a>
 
 <br />
-
-### Demo Screeshots
-
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 
 ### Run Locally
 
 To run **Grilli** locally, run this command on your git bash:
 
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
